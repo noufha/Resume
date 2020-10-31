@@ -1,7 +1,7 @@
 package resume;
 
 public class biodata {
-    String name = "Mohamed Jifri Noufha";
+	String name = "Mohamed Jifri Noufha";
     int matricno = 268894;
     int age = 18;
     String dob = "28 July 2002";
@@ -35,8 +35,5 @@ public void printAddress(){
 public void printhp(){
     System.out.println("HP: "+ hp);
 }
+
 }
-
-
-
-

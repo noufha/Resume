@@ -6,4 +6,5 @@ public class result {
 public void printProg1(){
     System.out.println("Result of programming1 in STIA1113: "+ result);
 }
-    }
+
+}

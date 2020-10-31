@@ -1,8 +1,6 @@
 package resume;
 
-
 public class cgpa {
-	
 	double[] gpa = {3.21, 3.53};
 	double total = 0;
 	double average;
@@ -30,6 +28,5 @@ public class cgpa {
 		}
 		return average;
 	}	
-	
-}
 
+}

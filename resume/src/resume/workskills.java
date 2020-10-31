@@ -6,6 +6,5 @@ public class workskills {
 	   public void printtalent(){
 	       System.out.println("Working Skills: "+ skills);
 	   }
-	   }
 
-		
+}
